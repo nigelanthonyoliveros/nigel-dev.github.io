@@ -1,0 +1,16 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildcss": "tailwindcss build -i src/style.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pattern.css": "^1.0.0",
+    "tailwindcss": "^2.2.16"
+  }
+}
